@@ -1,3 +1,4 @@
+
 ## Authors
 
 - [Aditya Sahoo](https://github.com/adi18-ui)
@@ -24,6 +25,7 @@ PDF Tools is a Python-based desktop application built using [Custom Tkinter](htt
 1. Clone this repository. OR Alternatively [Click Here](https://github.com/adi18-ui/PDF-Tools/archive/refs/heads/main.zip) to download the repository as zip. Extract the zip.
 
 2. Install PyPDF2 & pdf2docx from the command prompt or the vscode command line
+
 ` pip install PyPDF2 ` 
 
 ` pip install pdf2docx `
